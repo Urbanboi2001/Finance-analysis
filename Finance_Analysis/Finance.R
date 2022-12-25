@@ -43,7 +43,7 @@ Medical_Key_patter<-paste(Medical_key,collapse = "|")
 dt_in[grepl(Medical_Key_patter,Transaction), Category:="Medical"]
 
 #Online Shopping
-Online_key<-c("amazon","flipkart","myntra.")
+Online_key<-c("amazon","flipkart","myntra.","ekart")
 Online_Key_patter<-paste(Online_key,collapse = "|")
 dt_in[grepl(Online_Key_patter,Transaction), Category:="Online Shopping"]
 
@@ -58,7 +58,7 @@ food_Key_patter<-paste(food_key,collapse = "|")
 dt_in[grepl(food_Key_patter,Transaction), Category:="food expenses"]
 
 #Bills
-Bill_key<-c("sikkimpnon","mobile","recharge")
+Bill_key<-c("sikkimpnon","mobile","recharge","euronetgpay-euronetgpay")
 Bill_Key_patter<-paste(Bill_key,collapse = "|")
 dt_in[grepl(Bill_Key_patter,Transaction), Category:="Bills"]
 
@@ -71,6 +71,19 @@ dt_in[grepl(Inv_Key_patter,Transaction), Category:="Investment"]
 ATM_key<-c("atw")
 ATM_Key_patter<-paste(ATM_key,collapse = "|")
 dt_in[grepl(ATM_Key_patter,Transaction), Category:="ATM Withdrawal"]
+
+#House maintenance
+House_key<-c("paint","house reno","color","sumeshwar prasad")
+House_Key_patter<-paste(House_key,collapse = "|")
+dt_in[grepl(House_Key_patter,Transaction), Category:="House Renovation"]
+
+#Insurance
+Insurance_key<-c("nivabupa")
+Insurance_Key_patter<-paste(Insurance_key,collapse = "|")
+dt_in[grepl(Insurance_Key_patter,Transaction), Category:="Insurance"]
+
+# All other transaction types
+dt_in$Category[is.na(dt_in$Category)] = "Others"
 
 fwrite(dt_in,"C:/Users/Barun/Fin/Output.csv")
 
