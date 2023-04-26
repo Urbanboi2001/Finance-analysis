@@ -83,5 +83,7 @@ dt_in[grepl(Salary_Key_patter,Transaction), Category:="Salary"]
 # All other transaction types
 dt_in$Category[is.na(dt_in$Category)] = "Others"
 
+
+fix(dt_in)
 fwrite(dt_in,"D:/Data science/Projects/Fin-2122/Output.csv")
 

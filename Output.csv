@@ -1,360 +1,635 @@
-Date,Transaction,Amount,Category
-01/04/22,upi-vinay kumar singh-vinaysingh8567@okaxis-utib0000441-209178860526-upi,399,Others
-02/04/22,"neft dr-ucba0002373-rajesh kumar sharma-netbank, mum-n092221898886141-house renovation w",50000,House Renovation
-03/04/22,upi-kashu kumar pradhan-keshawpradhan7@okaxis-utib0000441-209324031140-cash,1000,Others
-03/04/22,upi-kashu kumar pradhan-keshawpradhan7@okaxis-utib0000441-209324045307-cash,1000,Others
-04/04/22,nippon mf rel-173787-2841,3500,Investment
-05/04/22,ach d- indianclrcorpltd-68879928,2000,Investment
-05/04/22,ach d- indianclrcorpltd-68876260,2000,Investment
-05/04/22,ach d- indianclrcorpltd-68883846,1000,Investment
-05/04/22,ach d- indianclrcorpltd-68882675,3000,Investment
-05/04/22,ach d- indianclrcorpltd-68878285,4000,Investment
-05/04/22,ach d- indianclrcorpltd-68884333,4000,Investment
-05/04/22,ach d- indianclrcorpltd-68881546,7000,Investment
-05/04/22,ach d- fin indian clearing-15437987,4000,Investment
-06/04/22,upi-myntracom-myntra.payu@axisbank-utib0000000-209611965740-upi transaction,1623,Online Shopping
-06/04/22,upi-md ashik ansari-ashikansarirpo@okhdfcbank-hdfc0002100-209685352917-shirt,750,Others
-06/04/22,upi-bp petrol pump  indr-q39906964@ybl-yesb0yblupi-209685559979-fuel,2800,Car expenses
-07/04/22,ach d- indianclrcorpltd-69237864,7000,Investment
-08/04/22,"neft dr-utib0000441-promada pradhan-netbank, mum-n098221910709787-rd",10000,Others
-08/04/22,"neft dr-utib0000441-bhim kumari pradhan-netbank, mum-n098221910720450-pm",2000,Others
-08/04/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n098221910692571-pm",1500,Others
-09/04/22,upi-krishna medical stor-krishnajirangpo-1@okicici-kkbk0009552-209943411158-upi,155,Medical
-10/04/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-210052185284-upi,719,Bills
-10/04/22,upi-xxxxxx6690-sbin0000659-210062201902-upi,2400,Others
-11/04/22,upi-krishna medical stor-krishnajirangpo-1@okicici-kkbk0009552-210180078612-medicine,672,Medical
-11/04/22,atw-652166xxxxxx6463-s1ansk43-east district,1000,ATM Withdrawal
-14/04/22,imps-210418336284-rajesh kumar sharma-ucba-xxxxxxxxxx2957-house renovation,40000,House Renovation
-14/04/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-210437595470-medical,227,Medical
-17/04/22,50200000003402   21411326 hlic inst,11602,Others
-17/04/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-210779484875-upi,380,Bills
-18/04/22,upi-amazon pay-amazonupi@apl-utib0000100-210813650011-you are paying for,1468,Online Shopping
-20/04/22,50400273822728- rd installment-apr 2022,1000,Others
-24/04/22,upi-myntra-myntra.payu@hdfcbank-hdfc0000499-211440032435-upi transaction,683,Online Shopping
-25/04/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-211527459815-upi,468,Medical
-25/04/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-211527541360-medical,285,Medical
-27/04/22,atw-652166xxxxxx6463-s1ansk43-east district,8000,ATM Withdrawal
-27/04/22,pos 652166xxxxxx6463 sikkim national,2492,Others
-29/04/22,upi-delhivery limited-delhivery.payu@icici-icic0dc0099-211989346059-upi,1022,Others
-29/04/22,upi-delhivery limited-delhivery.payu@icici-icic0dc0099-211989615468-upi,1448,Others
-29/04/22,.imps p2p 208712307404#28/03/2022 280322-mir2311938358789,5.9,Others
-29/04/22,.imps p2p 208715300963#28/03/2022 280322-mir2311938358782,4.14,Others
-29/04/22,.imps p2p 208715386468#28/03/2022 280322-mir2311938358774,5.9,Others
-01/05/22,upi-billdesk-billdesk@hdfcbank-hdfc0000499-212157906858-sikkimpnon,234,Bills
-02/05/22,nippon mf rel-173787-4053,3500,Investment
-02/05/22,"neft dr-utib0000441-promada pradhan-netbank, mum-n122221941260457-rd",10000,Others
-02/05/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n122221941244657-pm",1500,Others
-02/05/22,"neft dr-utib0000441-bhim kumari pradhan-netbank, mum-n122221941249749-pm",8000,Others
-04/05/22,imps-212408335593-rajesh kumar sharma-ucba-xxxxxxxxxx2957-house renovations,50000,House Renovation
-05/05/22,ach d- indianclrcorpltd-70164728,2000,Investment
-05/05/22,ach d- indianclrcorpltd-70157934,2000,Investment
-05/05/22,ach d- indianclrcorpltd-70165451,3000,Investment
-05/05/22,ach d- indianclrcorpltd-70151483,1000,Investment
-05/05/22,ach d- indianclrcorpltd-70158387,7000,Investment
-05/05/22,ach d- indianclrcorpltd-70151888,4000,Investment
-05/05/22,ach d- indianclrcorpltd-70157179,4000,Investment
-05/05/22,ach d- fin indian clearing-17528647,4000,Investment
-08/05/22,upi-om foot ware-gpay-11201001212@okbizaxis-utib0000000-212874774260-shoes,700,Clothing
-08/05/22,upi-new collection-9832040657@okbizaxis-utib0000000-212876041782-clothes,3500,Clothing
-08/05/22,nwd-652166xxxxxx6463-he104555-gangtok,430,Others
-08/05/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-212876694731-upi,4020,Others
-09/05/22,ach d- indianclrcorpltd-70514263,7000,Investment
-12/05/22,atw-652166xxxxxx6463-s1ansk43-east district,8000,ATM Withdrawal
-15/05/22,upi-flipkart-flipkart.payu@hdfcbank-hdfc0000499-213506839461-upi,6675,Online Shopping
-16/05/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-213620964515-upi,380,Bills
-19/05/22,50400273822728- rd installment-may 2022,1000,Others
-25/05/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-214587936476-upi,719,Bills
-26/05/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-214605111618-upi,719,Bills
-26/05/22,sby1821693_net_rnwl,12,Others
-28/05/22,imps-214807375667-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,1500,Others
-29/05/22,nwd-652166xxxxxx6463-10546621-east district,6000,Others
-02/06/22,nippon mf rel-173787-3092,3500,Investment
-03/06/22,upi-bp petrol pump  indr-q39906964@ybl-yesb0yblupi-215457375988-upi,2500,Car expenses
-03/06/22,upi-new collection-9832040657@okbizaxis-utib0000000-215457840190-clothes,1500,Clothing
-03/06/22,"neft dr-utib0000441-promada pradhan-netbank, mum-n154221984297174-rd",10000,Others
-03/06/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n154221984294047-pm",1500,Others
-05/06/22,emi 453386460 chq s4533864600011 0622453386460,2013,Others
-06/06/22,ach d- indianclrcorpltd-71496909,1000,Investment
-06/06/22,ach d- fin indian clearing-19842489,4000,Investment
-06/06/22,ach d- indianclrcorpltd-71495082,4000,Investment
-06/06/22,ach d- indianclrcorpltd-71495083,4000,Investment
-06/06/22,ach d- indianclrcorpltd-71496908,2000,Investment
-06/06/22,ach d- indianclrcorpltd-71496911,2000,Investment
-06/06/22,ach d- indianclrcorpltd-71496910,3000,Investment
-06/06/22,ach d- indianclrcorpltd-71496907,7000,Investment
-07/06/22,ach d- indianclrcorpltd-71863281,7000,Investment
-08/06/22,upi-om footwear-omfootwear.62009941@hdfcbank-hdfc0000001-215956571035-shoes,650,Clothing
-08/06/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-215956634716-medical,452,Medical
-10/06/22,.imps p2p 210418336284#14/04/2022 140422-mir2316104123782,5.9,Others
-15/06/22,imps-216606313538-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,500,Others
-15/06/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-216691529724-upi,380,Bills
-17/06/22,upi-ashish prasad-6296905563@axl-utib0000441-216837608429-shopping,350,Others
-17/06/22,atw-652166xxxxxx6463-s1ansk43-east district,1000,ATM Withdrawal
-19/06/22,upi-myntra-myntra.payu@hdfcbank-hdfc0000499-217033775014-upi transaction,539,Online Shopping
-19/06/22,50400273822728- rd installment-jun 2022,1000,Others
-20/06/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-217196826713-upi,870,Medical
-22/06/22,eaw-652166xxxxxx6463-cwro4410-rangpo,6000,Others
-24/06/22,ach d- njindiainvestpvtltd-3623361,354,Investment
-24/06/22,depository charges may22 - 38018064,826,Others
-24/06/22,upi-yo yo triptis-kbxyoenhqq7r35031@yesbank-yesb0000022-217570263493-cake,450,food expenses
-24/06/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-217570430268-medicine,295,Medical
-28/06/22,sby1821693_net_renewal,20,Others
-28/06/22,upi-billdesk-billdesk@hdfcbank-hdfc0000499-217949875353-sikkimpnon,168,Bills
-28/06/22,upi-billdesk-billdesk@hdfcbank-hdfc0000499-217949876434-sikkimpnon,282,Bills
-30/06/22,.imps p2p 212408335593#04/05/2022 040522-mir2318152929697,5.9,Others
-02/07/22,nippon mf rel-173787-4550,3500,Investment
-04/07/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-218548740960-upi,719,Bills
-04/07/22,pos 652166xxxxxx6463 indrajmull kurda,2119,Car expenses
-04/07/22,pos 652166xxxxxx6463 krishna medical,222,Medical
-04/07/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,ATM Withdrawal
-05/07/22,upi-ashwin  pradhan-ashwinpradhan047@oksbi-sbin0007950-218668277912-licence renew,3001,Others
-05/07/22,ach d- fin indian clearing-22156961,4000,Investment
-05/07/22,ach d- indianclrcorpltd-72998679,2000,Investment
-05/07/22,ach d- indianclrcorpltd-73005968,2000,Investment
-05/07/22,ach d- indianclrcorpltd-73011254,4000,Investment
-05/07/22,ach d- indianclrcorpltd-73005263,4000,Investment
-05/07/22,ach d- indianclrcorpltd-73009251,1000,Investment
-05/07/22,ach d- indianclrcorpltd-73002049,7000,Investment
-05/07/22,ach d- indianclrcorpltd-73010500,3000,Investment
-05/07/22,"neft dr-utib0000441-promada pradhan-netbank, mum-n186222026106174-rd",10000,Others
-05/07/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n186222026085257-pm",1500,Others
-05/07/22,emi 453386460 chq s4533864600021 0722453386460,2013,Others
-06/07/22,nwd-652166xxxxxx6463-12421001-gangtok,2000,Others
-06/07/22,nwd-652166xxxxxx6463-10546621-east district,3500,Others
-06/07/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-218700087346-medical,379,Medical
-06/07/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-218700162835-upi,174,Medical
-07/07/22,ach d- indianclrcorpltd-73261981,7000,Investment
-08/07/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-218941241263-medicines,404,Medical
-08/07/22,upi-mrs pushpa  tamang-pushpatamang2212@okhdfcbank-cbin0282239-218947024626-duga,50,Others
-11/07/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-219200899850-medicine,755,Medical
-14/07/22,imps-219505362824-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,100,Others
-14/07/22,.imps p2p 214807375667#28/05/2022 280522-mir2319572871202,5.9,Others
-14/07/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-219561492023-upi,380,Bills
-15/07/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-219678614714-medical,230,Medical
-15/07/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,ATM Withdrawal
-16/07/22,imps-219708379395-rajesh kumar sharma-ucba-xxxxxxxxxx2957-house renovation,10000,House Renovation
-20/07/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-220178339182-medicine,709,Medical
-22/07/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-220313287923-upi,148,Bills
-27/07/22,upi-bp petrol pump  indr-q39906964@ybl-yesb0yblupi-220899751035-fuel,1000,Car expenses
-27/07/22,upi-sanjay prasad kamu-97341.abi@okicici-sbin0000232-220803659529-tips,500,Others
-27/07/22,pos 652166xxxxxx6463 ms entel motors,3939,Car expenses
-27/07/22,upi-mandira  gurung-mandiragurung1981-1@oksbi-sbin0009034-220807161441-car wash,350,Car expenses
-29/07/22,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-221052201701-sweets,175,food expenses
-29/07/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-221052382525-medicine,175,Medical
-31/07/22,.imps p2p 216606313538#15/06/2022 150622-mir2321214260108,4.14,Others
-31/07/22,upi-bp petrol pump  indr-q75110110@ybl-yesb0yblupi-221285210261-fuel,2000,Car expenses
-01/08/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-221315758165-medicine,60,Medical
-02/08/22,nippon mf rel-173787-1055,3500,Investment
-03/08/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-221564823581-medicine,130,Medical
-03/08/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-221564947798-medicine,135,Medical
-05/08/22,ach d- indianclrcorpltd-74388197,1000,Investment
-05/08/22,ach d- fin indian clearing-24568782,4000,Investment
-05/08/22,ach d- indianclrcorpltd-74385051,4000,Investment
-05/08/22,ach d- indianclrcorpltd-74387151,4000,Investment
-05/08/22,ach d- indianclrcorpltd-74390241,2000,Investment
-05/08/22,ach d- indianclrcorpltd-74379117,7000,Investment
-05/08/22,ach d- indianclrcorpltd-74383281,2000,Investment
-05/08/22,ach d- indianclrcorpltd-74391632,3000,Investment
-05/08/22,emi 453386460 chq s4533864600031 0822453386460,2013,Others
-06/08/22,upi-bikash kumar prasad-bikashkumarprasad.49057144@hdfcbank-hdfc0000001-221830257102-prathams football,1400,Others
-07/08/22,"neft dr-cnrb0008676-jit bahadur biswakarma-netbank, mum-n219222069366493-lic payment sanu",4325,Others
-07/08/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n219222069366962-pm",1500,Others
-08/08/22,ach d- indianclrcorpltd-74556996,7000,Investment
-08/08/22,imps-222014359885-rajesh kumar sharma-ucba-xxxxxxxxxx2957-house renovation,20000,House Renovation
-08/08/22,upi-prasanjeet kumar sin-prashanjeetkumarsingh-3@okhdfcbank-hdfc0002958-222069641926-medical,20000,Medical
-09/08/22,eaw-652166xxxxxx6463-cwro4410-rangpo,1000,Others
-09/08/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-222195081713-medicine,919,Medical
-09/08/22,upi-furkan ahamed-almazzaqui15@okaxis-utib0000441-222195896438-loan,5000,Others
-11/08/22,upi-new collection-9832040657@okbizaxis-utib0000000-222340942912-clothes,400,Clothing
-12/08/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-222463806539-upi,380,Bills
-14/08/22,1871336454/reliancecapitalasset,1,Others
-14/08/22,yhdf1349785147/nipponindiamf,5000,Investment
-14/08/22,1871341435/reliancecapitalasset,1,Others
-14/08/22,yhdf1349794215/nipponindiamf,5000,Investment
-17/08/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-222949710440-upi,719,Bills
-19/08/22,kqshu5unbj42bpgwcm/payuamazon,501,Online Shopping
-20/08/22,.imps p2p 219505362824#14/07/2022 140722-mir2323255293625,4.14,Others
-22/08/22,.imps p2p 219708379395#16/07/2022 160722-mir2323358883223,5.9,Others
-23/08/22,upi-durga devi-kailashchandra5859@okhdfcbank-hdfc0004319-223574274496-upi,5000,Others
-26/08/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-223848847255-sikkimpnon,177,Bills
-26/08/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-223848857531-sikkimpnon,436,Bills
-26/08/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-223848858888-sikkimpnon,100,Bills
-29/08/22,upi-anil kumar chettri-chettri1980@okhdfcbank-hdfc0002100-224111465571-party,1317,food expenses
-01/09/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,ATM Withdrawal
-02/09/22,upi-amazon pay-amazonupi@apl-utib0000100-224538676882-you are paying for,494,Online Shopping
-02/09/22,nippon mf rel-173787-2664,3500,Investment
-04/09/22,upi-furkan ahamed-almazzaqui15@okaxis-utib0000441-224737133138-loan return,40000,Others
-04/09/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n247222104445146-pm",1500,Others
-05/09/22,ach d- fin indian clearing-27067643,4000,Investment
-05/09/22,ach d- indianclrcorpltd-75459974,1000,Investment
-05/09/22,ach d- indianclrcorpltd-75460889,2000,Investment
-05/09/22,ach d- indianclrcorpltd-75455932,2000,Investment
-05/09/22,ach d- indianclrcorpltd-75467698,4000,Investment
-05/09/22,ach d- indianclrcorpltd-75465280,4000,Investment
-05/09/22,ach d- indianclrcorpltd-75462077,7000,Investment
-05/09/22,ach d- indianclrcorpltd-75455984,3000,Investment
-06/09/22,upi-vinay kumar singh-vinaysingh8567@okaxis-utib0000441-224979802787-gift,333,Others
-07/09/22,ach d- indianclrcorpltd-75898311,7000,Investment
-09/09/22,upi-billdesktez-billdesk.airtel-dth@icici-icic0dc0099-225265995607-upi,380,Others
-10/09/22,upi-new collection-9832040657@okbizaxis-utib0000000-225383740502-clothes for birthd,1700,Clothing
-10/09/22,upi-new shree shyam hote-paytmqr2810050501011azvburu8eig@paytm-pytm0123456-225383867018-sweets,750,food expenses
-10/09/22,upi-kothari mega mart-mab.037133004410145@axisbank-utib0000100-225384016571-ballon,300,Others
-12/09/22,nippon mf 1871336454-15231,5000,Investment
-12/09/22,nippon mf 1871341435-14223,5000,Investment
-13/09/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-225646298758-medicines,40,Medical
-13/09/22,atw-652166xxxxxx6463-s1ansk43-east district,1000,ATM Withdrawal
-13/09/22,upi-aditya kumar-q81275210@ybl-ucba0002374-225646743880-groceries,320,food expenses
-14/09/22,.imps p2p 222014359885#08/08/2022 080822-mir2325591250245,5.9,Others
-14/09/22,imps-225718396346-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,1000,Others
-14/09/22,upi-myntra designs priva-myntra.payu@icici-icic0dc0099-225731353949-upi transaction,2791,Online Shopping
-15/09/22,pos 652166xxxxxx6463 sikkim national,2000,Others
-16/09/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-225921601401-paint,880,House Renovation
-18/09/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-226187336309-sikkimpnon,256,Bills
-18/09/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-226187332329-sikkimpnon,228,Bills
-19/09/22,imps-226212381329-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,2500,Others
-21/09/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-226430464866-medical,389,Medical
-21/09/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-226430569617-medical,185,Medical
-23/09/22,upi-flipkart internet pv-flipkart.payu@icici-icic0dc0099-226661854381-upi,901,Online Shopping
-25/09/22,upi-ekart-ekart@ybl-yesb0yblupi-226815687910-payment for fmpc21,449,Online Shopping
-26/09/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-226929549162-upi,719,Bills
-26/09/22,yhdf1434313229/billdknivabupahealth,30966,Insurance
-28/09/22,imps-227110361282-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,4000,Others
-29/09/22,atw-652166xxxxxx6463-s1ansk43-east district,17000,ATM Withdrawal
-29/09/22,imps-227220304146-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,100,Others
-30/09/22,upi-sagar  saini-sagar98saini-1@oksbi-sbin0000586-227335110244-samosa party,900,food expenses
-01/10/22,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-227443656680-tea,40,food expenses
-01/10/22,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-227459939771-shopping,190,Others
-03/10/22,nippon mf rel-173787-7213,3500,Investment
-03/10/22,upi-sova  pradhan-shovapradhan610@oksbi-sbin0010546-227604801983-rum,4680,food expenses
-03/10/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n276222145844045-pm",1500,Others
-04/10/22,upi-shree krishna hotel -pintumangla725-2@okaxis-utib0000441-227722960501-food,640,food expenses
-04/10/22,upi-sumeshwar prasad-9851126491-1@okbizaxis-utib0000000-227723396369-mobile,70,House Renovation
-04/10/22,upi-sumeshwar prasad-9851126491-1@okbizaxis-utib0000000-227723772176-shop,1130,House Renovation
-04/10/22,upi-bp petrol pump  indr-q75110110@ybl-yesb0yblupi-227724146572-fuel,1700,Car expenses
-06/10/22,ach d- indianclrcorpltd-77075111,1000,Investment
-06/10/22,ach d- indianclrcorpltd-77069939,4000,Investment
-06/10/22,ach d- indianclrcorpltd-77069534,4000,Investment
-06/10/22,ach d- indianclrcorpltd-77077541,2000,Investment
-06/10/22,ach d- indianclrcorpltd-77078004,2000,Investment
-06/10/22,ach d- indianclrcorpltd-77069730,3000,Investment
-06/10/22,ach d- indianclrcorpltd-77076588,7000,Investment
-06/10/22,ach d- fin indian clearing-29499892,4000,Investment
-07/10/22,ach d- indianclrcorpltd-77225183,7000,Investment
-07/10/22,.imps p2p 225718396346#14/09/2022 140922-mir2328045136283,4.14,Others
-07/10/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-228001623384-upi,380,Bills
-08/10/22,upi-ashwin  pradhan-ashwinpradhan047@oksbi-sbin0007950-228112564126-rum,3385,food expenses
-10/10/22,pos 652166xxxxxx6463 postick,720,Others
-10/10/22,nippon mf 1871341435-1204,5000,Investment
-10/10/22,nippon mf 1871336454-1154,5000,Investment
-10/10/22,.imps p2p 226212381329#19/09/2022 190922-mir2328248103406,5.9,Others
-10/10/22,upi-pragya  pradhan-pragyapradhan05@oksbi-sbin0010546-228366621450-rum,2200,food expenses
-15/10/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-228888663007-medical,856,Medical
-16/10/22,pos 652166xxxxxx6463 reliance trends,2806,Clothing
-16/10/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-228912820857-paint,22390,House Renovation
-17/10/22,.imps p2p 227110361282#28/09/2022 280922-mir2328969114417,5.9,Others
-17/10/22,upi-sonu kumar-8927397841.eazypay@icici-icic0dc0099-229040293700-medical,1665,Medical
-18/10/22,upi-flipkart-flipkart.payu@hdfcbank-hdfc0000499-229144388021-upi,1682,Online Shopping
-18/10/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-229159380710-medicines,192,Medical
-19/10/22,upi-sanjay sharma-sanjay1236sharma28@okaxis-utib0000441-229278130568-party,1000,food expenses
-20/10/22,imps-229310382125-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,2000,Others
-20/10/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-229306900761-color,1680,House Renovation
-20/10/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-229306932952-medicines,257,Medical
-20/10/22,pos 652166xxxxxx6463 bpcl pankaj fuel,1700,Car expenses
-20/10/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-229313338081-medical,774,Medical
-23/10/22,.imps p2p 227220304146#29/09/2022 300922-mir2329481424898,4.14,Others
-23/10/22,upi-shree krishna hotel -pintumangla725-2@okaxis-utib0000441-229673895329-food,170,food expenses
-23/10/22,upi-anjalikumari gupta-21pintugupta@okaxis-hdfc0002100-229674353183-fool,1300,Others
-23/10/22,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-229674462330-upi,50,Others
-23/10/22,upi-munna shah-9800398475@okbizaxis-utib0000000-229674596290-fruits,390,food expenses
-24/10/22,upi-sumeshwar prasad-9851126491-1@okbizaxis-utib0000000-229790031167-light,5500,House Renovation
-24/10/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-229790107986-medicines,57,Medical
-24/10/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-229792997257-paint,3160,House Renovation
-25/10/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-229814518241-upi,58,Bills
-26/10/22,atw-652166xxxxxx6463-s1ansk43-east district,20000,ATM Withdrawal
-26/10/22,atw-652166xxxxxx6463-s1ansk43-east district,20000,ATM Withdrawal
-26/10/22,atw-652166xxxxxx6463-s1ansk43-east district,5000,ATM Withdrawal
-26/10/22,upi-diwakar nuhiwal-harshvardhanmaheshwari062@okhdfcbank-hdfc0002100-229932214522-gift,490,Others
-26/10/22,upi-new collection-9832040657@okbizaxis-utib0000000-229932492123-clothes,1900,Clothing
-26/10/22,upi-prakash kumar gupta-amzn0011703595@apl-hdfc0002100-229932754682-rum loan,2900,food expenses
-26/10/22,upi-ashish kumar-ag80054@okhdfcbank-hdfc0002100-229932866827-snacks,415,food expenses
-30/10/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,ATM Withdrawal
-02/11/22,nippon mf rel-173787-2833,3500,Investment
-02/11/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-230686794551-medicine,887,Medical
-02/11/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-230687164325-medical,150,Medical
-02/11/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-230674731085-sikkimpnon,100,Bills
-03/11/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n307222189378341-pm",1500,Others
-05/11/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-230967019388-upi,380,Bills
-06/11/22,upi-bp petrol pump  indr-q39906964@ybl-yesb0yblupi-231083312740-fuel,1800,Car expenses
-06/11/22,pos 652166xxxxxx6463 reliance trends,4903,Clothing
-06/11/22,upi-mandira  gurung-mandiragurung1981-1@oksbi-sbin0009034-231090717409-car wash,350,Car expenses
-07/11/22,ach d- fin indian clearing-32414079,4000,Investment
-07/11/22,ach d- indianclrcorpltd-78340428,1000,Investment
-07/11/22,ach d- indianclrcorpltd-78337530,2000,Investment
-07/11/22,ach d- indianclrcorpltd-78338913,3000,Investment
-07/11/22,ach d- indianclrcorpltd-78323740,2000,Investment
-07/11/22,ach d- indianclrcorpltd-78328984,4000,Investment
-07/11/22,ach d- indianclrcorpltd-78340950,4000,Investment
-07/11/22,ach d- indianclrcorpltd-78341959,7000,Investment
-07/11/22,ach d- indianclrcorpltd-78338912,7000,Investment
-07/11/22,.imps p2p 229310382125#20/10/2022 201022-mir2330926785651,5.9,Others
-09/11/22,upi-sanjay sharma-sanjay1236sharma28@okaxis-utib0000441-231361106274-recharge,719,Bills
-10/11/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-231478606274-upi,719,Bills
-10/11/22,nippon mf 1871336454-13750,5000,Investment
-10/11/22,nippon mf 1871341435-13751,5000,Investment
-10/11/22,upi-nirmal kumar agarwal-gpay-11194250051@okbizaxis-utib0000000-231489316801-mobile,10500,Bills
-10/11/22,upi-nirmal kumar agarwal-gpay-11194250051@okbizaxis-utib0000000-231489486663-mobile,250,Bills
-10/11/22,upi-abhishek kumar kanu-tonugupta80@okaxis-utib0000441-231489612412-cake,450,food expenses
-10/11/22,pos 652166xxxxxx6463 native enclave,1992,food expenses
-13/11/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-231758794071-upi,118,Bills
-14/11/22,upi-mr nima dojee sherpa-6297432559@ybl-cbin0284464-231878566432-charger,345,Others
-16/11/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-232035244078-medicine,235,Medical
-18/11/22,upi-sanjay kumar agarwal-9832316326@okbizaxis-utib0000000-232285816995-clothes,240,Clothing
-19/11/22,pos 652166xxxxxx6463 north east fuel,500,Car expenses
-22/11/22,imps-232621391652-bhim kumari pradhan-utib-xxxxxxxxxxx1807-data science,5110,Others
-24/11/22,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-232811881754-food,60,food expenses
-25/11/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,ATM Withdrawal
-26/11/22,upi-vinay kumar singh-vinaysingh8567@okaxis-utib0000441-233068837883-data science cours,5115,Others
-26/11/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,ATM Withdrawal
-26/11/22,upi-bikash kumar prasad-bikashkumarprasad.63017204@hdfcbank-hdfc0000001-233069989617-upi,1800,Others
-26/11/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-233070073067-medicine,474,Medical
-26/11/22,upi-janki trade link-paytmqr2810050501011sigi8pa4ssh@paytm-pytm0123456-233070508501-food,190,food expenses
-26/11/22,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-233070593991-food,190,food expenses
-27/11/22,upi-the art of living-theartofliving.rzp@icici-icic0dc0099-233123747618-the art of living,3500,Others
-28/11/22,.imps p2p 232621391652#22/11/2022 231122-mir2333074385446,5.9,Others
-30/11/22,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-233445594388-upi,60,food expenses
-01/12/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-233587929731-medical,103,Medical
-01/12/22,upi-munna shah-9800398475@okbizaxis-utib0000000-233588196945-grocery,120,food expenses
-01/12/22,upi-aditya kumar-q24301311@ybl-ucba0002374-233588290180-grocery,125,food expenses
-01/12/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n335222228948154-pm",1500,Others
-01/12/22,upi-life insurance corpo-lifeincorpofindia@hdfcbank-hdfc0000499-233529247022-payment,7885,Others
-02/12/22,nippon mf rel-173787-2693,3500,Investment
-02/12/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-233616305483-medical,175,Medical
-02/12/22,upi-amazon india-amazon@yapl-yesb0aplupi-233630529589-you are paying for,2279,Online Shopping
-03/12/22,upi-islam  ansari-islam87739@oksbi-sbin0001447-233732528252-loan,8000,Others
-03/12/22,upi-priyanka sharma-eazypay.584946891@icici-icic0dc0099-233750458018-farewell,9000,Others
-04/12/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-233834599745-sikkimpnon,208,Bills
-04/12/22,upi-meet and eat-gpay-11201001206@okbizaxis-utib0000000-233864127830-food,205,food expenses
-05/12/22,ach d- indianclrcorpltd-79526530,1000,Investment
-05/12/22,ach d- indianclrcorpltd-79530872,3000,Investment
-05/12/22,ach d- indianclrcorpltd-79521597,4000,Investment
-05/12/22,ach d- indianclrcorpltd-79535573,4000,Investment
-05/12/22,ach d- indianclrcorpltd-79519617,2000,Investment
-05/12/22,ach d- indianclrcorpltd-79521674,7000,Investment
-05/12/22,ach d- indianclrcorpltd-79535726,2000,Investment
-05/12/22,ach d- fin indian clearing-35112686,4000,Investment
-06/12/22,upi-flipkart-flipkart.payu@hdfcbank-hdfc0000499-234004711235-upi,1907,Online Shopping
-07/12/22,ach d- indianclrcorpltd-80013138,7000,Investment
-10/12/22,upi-native enclave-8944808010@okbizaxis-utib0000000-234427521538-food,3233,food expenses
-11/12/22,upi-xxxxxx0381-icic0006354-234539621278-loan,3500,Others
-12/12/22,nippon mf 1871336454-14545,5000,Investment
-12/12/22,nippon mf 1871341435-14546,5000,Investment
-13/12/22,upi-om footwear-omfootwear.62009941@hdfcbank-hdfc0000001-234797832340-clothes,620,Clothing
-17/12/22,upi-gopiram jogendra pra-gpay-11175136022@okbizaxis-utib0000000-235177666572-clothes,6000,Clothing
-17/12/22,upi-bharat shoe company-gpay-11194070313@okbizaxis-utib0000000-235178126609-shoes,2500,Clothing
-17/12/22,upi-poonam  gazmer-poonam.gazmer-2@oksbi-sbin0009034-235181783483-food,730,food expenses
-17/12/22,upi-mayur shripad joshi-amzn0006655571@apl-hdfc0001083-235182090619-food,1803,food expenses
-21/12/22,upi-bp petrol pump  indr-q75110110@ybl-yesb0yblupi-235576368258-fuel,1700,Car expenses
-23/12/22,upi-siddarth communicati-paytmqr2810050501011r4eyagtn3e5@paytm-pytm0123456-235720678499-gifts,190,Others
-24/12/22,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-235829374718-food,60,food expenses
-24/12/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-235844520674-medical,1800,Medical
-24/12/22,upi-sanjay kumar agarwal-9832316326@okbizaxis-utib0000000-235845257731-clothes,200,Clothing
+Date,Transaction,Amount,Credit,Category
+01/04/22,upi-vinay kumar singh-vinaysingh8567@okaxis-utib0000441-209178860526-upi,399,,Others
+02/04/22,"neft dr-ucba0002373-rajesh kumar sharma-netbank, mum-n092221898886141-house renovation w",50000,,House Renovation
+03/04/22,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb220930998629,,38611,Others
+03/04/22,upi-kashu kumar pradhan-keshawpradhan7@okaxis-utib0000441-209324031140-cash,1000,,Others
+03/04/22,upi-kashu kumar pradhan-keshawpradhan7@okaxis-utib0000441-209324045307-cash,1000,,Others
+04/04/22,nippon mf rel-173787-2841,3500,,Investment
+05/04/22,ach d- indianclrcorpltd-68879928,2000,,Investment
+05/04/22,ach d- indianclrcorpltd-68876260,2000,,Investment
+05/04/22,ach d- indianclrcorpltd-68883846,1000,,Investment
+05/04/22,ach d- indianclrcorpltd-68882675,3000,,Investment
+05/04/22,ach d- indianclrcorpltd-68878285,4000,,Investment
+05/04/22,ach d- indianclrcorpltd-68884333,4000,,Investment
+05/04/22,ach d- indianclrcorpltd-68881546,7000,,Investment
+05/04/22,ach d- fin indian clearing-15437987,4000,,Investment
+05/04/22,rev_insta alert ch jan22-sms(12) 280222-mir2207057205452,,2.84,Others
+06/04/22,upi-myntracom-myntra.payu@axisbank-utib0000000-209611965740-upi transaction,1623,,Online Shopping
+06/04/22,upi-md ashik ansari-ashikansarirpo@okhdfcbank-hdfc0002100-209685352917-shirt,750,,Others
+06/04/22,upi-bp petrol pump  indr-q39906964@ybl-yesb0yblupi-209685559979-fuel,2800,,Car expenses
+07/04/22,ach d- indianclrcorpltd-69237864,7000,,Investment
+07/04/22,neft cr-kkbk0000958-lupin ltd employees provident fund trust-barun dev pradhan-kkbk220974810564,,150000,Others
+07/04/22,rev_insta alert chg(feb-22) - sms 230322-mir2208597292635,,2.84,Others
+07/04/22,emi 118469944 chq s1184699440121 0422118469944,38611,,Others
+08/04/22,"neft dr-utib0000441-promada pradhan-netbank, mum-n098221910709787-rd",10000,,Others
+08/04/22,"neft dr-utib0000441-bhim kumari pradhan-netbank, mum-n098221910720450-pm",2000,,Others
+08/04/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n098221910692571-pm",1500,,Others
+09/04/22,upi-bikash thapa-beekuthapa1985@okhdfcbank-hdfc0002100-209943299002-upi,,5000,Others
+09/04/22,upi-krishna medical stor-krishnajirangpo-1@okicici-kkbk0009552-209943411158-upi,155,,Medical
+10/04/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-210052185284-upi,719,,Bills
+10/04/22,upi-xxxxxx6690-sbin0000659-210062201902-upi,2400,,Others
+11/04/22,upi-krishna medical stor-krishnajirangpo-1@okicici-kkbk0009552-210180078612-medicine,672,,Medical
+11/04/22,atw-652166xxxxxx6463-s1ansk43-east district,1000,,ATM Withdrawal
+14/04/22,imps-210418336284-rajesh kumar sharma-ucba-xxxxxxxxxx2957-house renovation,40000,,House Renovation
+14/04/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-210437595470-medical,227,,Medical
+17/04/22,50200000003402   21411326 hlic inst,11602,,Others
+17/04/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-210779484875-upi,380,,Bills
+18/04/22,upi-amazon pay-amazonupi@apl-utib0000100-210813650011-you are paying for,1468,,Online Shopping
+20/04/22,50400273822728- rd installment-apr 2022,1000,,Others
+24/04/22,upi-myntra-myntra.payu@hdfcbank-hdfc0000499-211440032435-upi transaction,683,,Online Shopping
+25/04/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-211527459815-upi,468,,Medical
+25/04/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-211527541360-medical,285,,Medical
+27/04/22,atw-652166xxxxxx6463-s1ansk43-east district,8000,,ATM Withdrawal
+27/04/22,pos 652166xxxxxx6463 sikkim national,2492,,Others
+29/04/22,upi-delhivery limited-delhivery.payu@icici-icic0dc0099-211989346059-upi,1022,,Others
+29/04/22,upi-delhivery limited-delhivery.payu@icici-icic0dc0099-211989615468-upi,1448,,Others
+29/04/22,.imps p2p 208712307404#28/03/2022 280322-mir2311938358789,5.9,,Others
+29/04/22,.imps p2p 208715300963#28/03/2022 280322-mir2311938358782,4.14,,Others
+29/04/22,.imps p2p 208715386468#28/03/2022 280322-mir2311938358774,5.9,,Others
+29/04/22,rref-652166******6463-211718795100-27/04,,18.69,Others
+30/04/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22267797917 salary apr22 sikkim,,70613,Salary
+01/05/22,upi-billdesk-billdesk@hdfcbank-hdfc0000499-212157906858-sikkimpnon,234,,Bills
+02/05/22,upi-sanjay sharma-sanjay1236sharma28@okaxis-utib0000441-212227903170-book,,738,Others
+02/05/22,nippon mf rel-173787-4053,3500,,Investment
+02/05/22,"neft dr-utib0000441-promada pradhan-netbank, mum-n122221941260457-rd",10000,,Others
+02/05/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n122221941244657-pm",1500,,Others
+02/05/22,"neft dr-utib0000441-bhim kumari pradhan-netbank, mum-n122221941249749-pm",8000,,Others
+04/05/22,imps-212408335593-rajesh kumar sharma-ucba-xxxxxxxxxx2957-house renovations,50000,,House Renovation
+04/05/22,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb221245657141,,38611,Others
+05/05/22,ach d- indianclrcorpltd-70164728,2000,,Investment
+05/05/22,ach d- indianclrcorpltd-70157934,2000,,Investment
+05/05/22,ach d- indianclrcorpltd-70165451,3000,,Investment
+05/05/22,ach d- indianclrcorpltd-70151483,1000,,Investment
+05/05/22,ach d- indianclrcorpltd-70158387,7000,,Investment
+05/05/22,ach d- indianclrcorpltd-70151888,4000,,Investment
+05/05/22,ach d- indianclrcorpltd-70157179,4000,,Investment
+05/05/22,ach d- fin indian clearing-17528647,4000,,Investment
+07/05/22,emi 118469944 chq s1184699440131 0522118469944,38611,,Others
+08/05/22,upi-om foot ware-gpay-11201001212@okbizaxis-utib0000000-212874774260-shoes,700,,Clothing
+08/05/22,upi-new collection-9832040657@okbizaxis-utib0000000-212876041782-clothes,3500,,Clothing
+08/05/22,nwd-652166xxxxxx6463-he104555-gangtok,430,,Others
+08/05/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-212876694731-upi,4020,,Others
+09/05/22,ach d- indianclrcorpltd-70514263,7000,,Investment
+12/05/22,atw-652166xxxxxx6463-s1ansk43-east district,8000,,ATM Withdrawal
+15/05/22,upi-flipkart-flipkart.payu@hdfcbank-hdfc0000499-213506839461-upi,6675,,Online Shopping
+16/05/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-213620964515-upi,380,,Bills
+19/05/22,50400273822728- rd installment-may 2022,1000,,Others
+25/05/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-214587936476-upi,719,,Bills
+26/05/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-214605111618-upi,719,,Bills
+26/05/22,sby1821693_net_rnwl,12,,Others
+28/05/22,imps-214807375667-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,1500,,Others
+29/05/22,nwd-652166xxxxxx6463-10546621-east district,6000,,Others
+31/05/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22283382944 sikkim salary for may 22,,64699,Salary
+02/06/22,nippon mf rel-173787-3092,3500,,Investment
+03/06/22,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb221549146705,,38611,Others
+03/06/22,upi-bp petrol pump  indr-q39906964@ybl-yesb0yblupi-215457375988-upi,2500,,Car expenses
+03/06/22,upi-new collection-9832040657@okbizaxis-utib0000000-215457840190-clothes,1500,,Clothing
+03/06/22,"neft dr-utib0000441-promada pradhan-netbank, mum-n154221984297174-rd",10000,,Others
+03/06/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n154221984294047-pm",1500,,Others
+05/06/22,emi 453386460 chq s4533864600011 0622453386460,2013,,Others
+06/06/22,ach d- indianclrcorpltd-71496909,1000,,Investment
+06/06/22,ach d- fin indian clearing-19842489,4000,,Investment
+06/06/22,ach d- indianclrcorpltd-71495082,4000,,Investment
+06/06/22,ach d- indianclrcorpltd-71495083,4000,,Investment
+06/06/22,ach d- indianclrcorpltd-71496908,2000,,Investment
+06/06/22,ach d- indianclrcorpltd-71496911,2000,,Investment
+06/06/22,ach d- indianclrcorpltd-71496910,3000,,Investment
+06/06/22,ach d- indianclrcorpltd-71496907,7000,,Investment
+07/06/22,ach d- indianclrcorpltd-71863281,7000,,Investment
+07/06/22,emi 118469944 chq s1184699440141 0622118469944,38611,,Others
+08/06/22,upi-om footwear-omfootwear.62009941@hdfcbank-hdfc0000001-215956571035-shoes,650,,Clothing
+08/06/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-215956634716-medical,452,,Medical
+10/06/22,.imps p2p 210418336284#14/04/2022 140422-mir2316104123782,5.9,,Others
+15/06/22,imps-216606313538-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,500,,Others
+15/06/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-216691529724-upi,380,,Bills
+17/06/22,upi-ashish prasad-6296905563@axl-utib0000441-216837608429-shopping,350,,Others
+17/06/22,atw-652166xxxxxx6463-s1ansk43-east district,1000,,ATM Withdrawal
+19/06/22,upi-myntra-myntra.payu@hdfcbank-hdfc0000499-217033775014-upi transaction,539,,Online Shopping
+19/06/22,50400273822728- rd installment-jun 2022,1000,,Others
+20/06/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-217196826713-upi,870,,Medical
+22/06/22,eaw-652166xxxxxx6463-cwro4410-rangpo,6000,,Others
+24/06/22,ach d- njindiainvestpvtltd-3623361,354,,Investment
+24/06/22,depository charges may22 - 38018064,826,,Others
+24/06/22,upi-yo yo triptis-kbxyoenhqq7r35031@yesbank-yesb0000022-217570263493-cake,450,,food expenses
+24/06/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-217570430268-medicine,295,,Medical
+24/06/22,rev sby1821693_net_rnwl,,12,Others
+28/06/22,sby1821693_net_renewal,20,,Others
+28/06/22,upi-billdesk-billdesk@hdfcbank-hdfc0000499-217949875353-sikkimpnon,168,,Bills
+28/06/22,upi-billdesk-billdesk@hdfcbank-hdfc0000499-217949876434-sikkimpnon,282,,Bills
+30/06/22,.imps p2p 212408335593#04/05/2022 040522-mir2318152929697,5.9,,Others
+30/06/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22298739014 sikkim salary for june 22,,64699,Salary
+01/07/22,credit interest capitalised,,462,Others
+02/07/22,nippon mf rel-173787-4550,3500,,Investment
+03/07/22,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb221842643110,,38611,Others
+04/07/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-218548740960-upi,719,,Bills
+04/07/22,pos 652166xxxxxx6463 indrajmull kurda,2119,,Car expenses
+04/07/22,pos 652166xxxxxx6463 krishna medical,222,,Medical
+04/07/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,,ATM Withdrawal
+05/07/22,upi-ashwin  pradhan-ashwinpradhan047@oksbi-sbin0007950-218608522797-upi,,1,Others
+05/07/22,upi-ashwin  pradhan-ashwinpradhan047@oksbi-sbin0007950-218668277912-licence renew,3001,,Others
+05/07/22,ach d- fin indian clearing-22156961,4000,,Investment
+05/07/22,ach d- indianclrcorpltd-72998679,2000,,Investment
+05/07/22,ach d- indianclrcorpltd-73005968,2000,,Investment
+05/07/22,ach d- indianclrcorpltd-73011254,4000,,Investment
+05/07/22,ach d- indianclrcorpltd-73005263,4000,,Investment
+05/07/22,ach d- indianclrcorpltd-73009251,1000,,Investment
+05/07/22,ach d- indianclrcorpltd-73002049,7000,,Investment
+05/07/22,ach d- indianclrcorpltd-73010500,3000,,Investment
+05/07/22,"neft dr-utib0000441-promada pradhan-netbank, mum-n186222026106174-rd",10000,,Others
+05/07/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n186222026085257-pm",1500,,Others
+05/07/22,emi 453386460 chq s4533864600021 0722453386460,2013,,Others
+06/07/22,nwd-652166xxxxxx6463-12421001-gangtok,2000,,Others
+06/07/22,nwd-652166xxxxxx6463-10546621-east district,3500,,Others
+06/07/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-218700087346-medical,379,,Medical
+06/07/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-218700162835-upi,174,,Medical
+07/07/22,ach d- indianclrcorpltd-73261981,7000,,Investment
+07/07/22,emi 118469944 chq s1184699440151 0722118469944,38611,,Others
+08/07/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-218941241263-medicines,404,,Medical
+08/07/22,upi-mrs pushpa  tamang-pushpatamang2212@okhdfcbank-cbin0282239-218947024626-duga,50,,Others
+10/07/22,upi-surakcha gurung-surakchagrg@okaxis-utib0003807-219142523418-sita nini,,1000,Others
+11/07/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-219200899850-medicine,755,,Medical
+14/07/22,imps-219505362824-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,100,,Others
+14/07/22,.imps p2p 214807375667#28/05/2022 280522-mir2319572871202,5.9,,Others
+14/07/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-219561492023-upi,380,,Bills
+15/07/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-219678614714-medical,230,,Medical
+15/07/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,,ATM Withdrawal
+16/07/22,rd closure through net banking - 50400273822728,,4024,Others
+16/07/22,upi-furkan ahamed-almazzaqui15@okaxis-utib0000441-219765168055-hi,,10000,Others
+16/07/22,imps-219708379395-rajesh kumar sharma-ucba-xxxxxxxxxx2957-house renovation,10000,,House Renovation
+20/07/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-220178339182-medicine,709,,Medical
+22/07/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-220313287923-upi,148,,Bills
+27/07/22,upi-bp petrol pump  indr-q39906964@ybl-yesb0yblupi-220899751035-fuel,1000,,Car expenses
+27/07/22,upi-sanjay prasad kamu-97341.abi@okicici-sbin0000232-220803659529-tips,500,,Others
+27/07/22,pos 652166xxxxxx6463 ms entel motors,3939,,Car expenses
+27/07/22,upi-mandira  gurung-mandiragurung1981-1@oksbi-sbin0009034-220807161441-car wash,350,,Car expenses
+29/07/22,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-221052201701-sweets,175,,food expenses
+29/07/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-221052382525-medicine,175,,Medical
+30/07/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22314138970 salary jul22 sikkim,,64643,Salary
+31/07/22,.imps p2p 216606313538#15/06/2022 150622-mir2321214260108,4.14,,Others
+31/07/22,upi-bp petrol pump  indr-q75110110@ybl-yesb0yblupi-221285210261-fuel,2000,,Car expenses
+01/08/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-221315758165-medicine,60,,Medical
+02/08/22,nippon mf rel-173787-1055,3500,,Investment
+03/08/22,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb222156557420,,38611,Others
+03/08/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-221564823581-medicine,130,,Medical
+03/08/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-221564947798-medicine,135,,Medical
+05/08/22,ach d- indianclrcorpltd-74388197,1000,,Investment
+05/08/22,ach d- fin indian clearing-24568782,4000,,Investment
+05/08/22,ach d- indianclrcorpltd-74385051,4000,,Investment
+05/08/22,ach d- indianclrcorpltd-74387151,4000,,Investment
+05/08/22,ach d- indianclrcorpltd-74390241,2000,,Investment
+05/08/22,ach d- indianclrcorpltd-74379117,7000,,Investment
+05/08/22,ach d- indianclrcorpltd-74383281,2000,,Investment
+05/08/22,ach d- indianclrcorpltd-74391632,3000,,Investment
+05/08/22,emi 453386460 chq s4533864600031 0822453386460,2013,,Others
+06/08/22,upi-bikash kumar prasad-bikashkumarprasad.49057144@hdfcbank-hdfc0000001-221830257102-prathams football,1400,,Others
+07/08/22,emi 118469944 chq s1184699440161 0822118469944,38611,,Others
+07/08/22,"neft dr-cnrb0008676-jit bahadur biswakarma-netbank, mum-n219222069366493-lic payment sanu",4325,,Others
+07/08/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n219222069366962-pm",1500,,Others
+08/08/22,upi-furkan ahamed-almazzaqui15@okaxis-utib0000441-222075336826-on demand,,30000,Others
+08/08/22,ach d- indianclrcorpltd-74556996,7000,,Investment
+08/08/22,imps-222014359885-rajesh kumar sharma-ucba-xxxxxxxxxx2957-house renovation,20000,,House Renovation
+08/08/22,upi-prasanjeet kumar sin-prashanjeetkumarsingh-3@okhdfcbank-hdfc0002958-222069641926-medical,20000,,Medical
+09/08/22,eaw-652166xxxxxx6463-cwro4410-rangpo,1000,,Others
+09/08/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-222195081713-medicine,919,,Medical
+09/08/22,upi-furkan ahamed-almazzaqui15@okaxis-utib0000441-222195896438-loan,5000,,Others
+11/08/22,upi-new collection-9832040657@okbizaxis-utib0000000-222340942912-clothes,400,,Clothing
+12/08/22,ach c- bcvpp0479e-ay2022-23-ce2218706259,,101960,Others
+12/08/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-222463806539-upi,380,,Bills
+14/08/22,1871336454/reliancecapitalasset,1,,Others
+14/08/22,yhdf1349785147/nipponindiamf,5000,,Investment
+14/08/22,1871341435/reliancecapitalasset,1,,Others
+14/08/22,yhdf1349794215/nipponindiamf,5000,,Investment
+17/08/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-222949710440-upi,719,,Bills
+17/08/22,rev 1871336454/reliancecapitalasset,,1,Others
+17/08/22,rev 1871341435/reliancecapitalasset,,1,Others
+19/08/22,kqshu5unbj42bpgwcm/payuamazon,501,,Online Shopping
+20/08/22,.imps p2p 219505362824#14/07/2022 140722-mir2323255293625,4.14,,Others
+22/08/22,.imps p2p 219708379395#16/07/2022 160722-mir2323358883223,5.9,,Others
+23/08/22,upi-durga devi-kailashchandra5859@okhdfcbank-hdfc0004319-223574274496-upi,5000,,Others
+26/08/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-223848847255-sikkimpnon,177,,Bills
+26/08/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-223848857531-sikkimpnon,436,,Bills
+26/08/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-223848858888-sikkimpnon,100,,Bills
+29/08/22,upi-anil kumar chettri-chettri1980@okhdfcbank-hdfc0002100-224111465571-party,1317,,food expenses
+30/08/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22328329903 salary aug22 sikkim,,157621,Salary
+01/09/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,,ATM Withdrawal
+02/09/22,upi-kailash  chandra-kailashchandra5859@oksbi-sbin0014232-224596444287-upi,,5000,Others
+02/09/22,upi-amazon pay-amazonupi@apl-utib0000100-224538676882-you are paying for,494,,Online Shopping
+02/09/22,nippon mf rel-173787-2664,3500,,Investment
+03/09/22,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb222460212330,,38611,Others
+04/09/22,upi-furkan ahamed-almazzaqui15@okaxis-utib0000441-224737133138-loan return,40000,,Others
+04/09/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n247222104445146-pm",1500,,Others
+05/09/22,ach d- fin indian clearing-27067643,4000,,Investment
+05/09/22,ach d- indianclrcorpltd-75459974,1000,,Investment
+05/09/22,ach d- indianclrcorpltd-75460889,2000,,Investment
+05/09/22,ach d- indianclrcorpltd-75455932,2000,,Investment
+05/09/22,ach d- indianclrcorpltd-75467698,4000,,Investment
+05/09/22,ach d- indianclrcorpltd-75465280,4000,,Investment
+05/09/22,ach d- indianclrcorpltd-75462077,7000,,Investment
+05/09/22,ach d- indianclrcorpltd-75455984,3000,,Investment
+06/09/22,upi-vinay kumar singh-vinaysingh8567@okaxis-utib0000441-224979802787-gift,333,,Others
+07/09/22,ach d- indianclrcorpltd-75898311,7000,,Investment
+07/09/22,emi 118469944 chq s1184699440171 0922118469944,38611,,Others
+09/09/22,upi-billdesktez-billdesk.airtel-dth@icici-icic0dc0099-225265995607-upi,380,,Others
+10/09/22,upi-new collection-9832040657@okbizaxis-utib0000000-225383740502-clothes for birthd,1700,,Clothing
+10/09/22,upi-new shree shyam hote-paytmqr2810050501011azvburu8eig@paytm-pytm0123456-225383867018-sweets,750,,food expenses
+10/09/22,upi-kothari mega mart-mab.037133004410145@axisbank-utib0000100-225384016571-ballon,300,,Others
+12/09/22,nippon mf 1871336454-15231,5000,,Investment
+12/09/22,nippon mf 1871341435-14223,5000,,Investment
+13/09/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-225646298758-medicines,40,,Medical
+13/09/22,atw-652166xxxxxx6463-s1ansk43-east district,1000,,ATM Withdrawal
+13/09/22,upi-aditya kumar-q81275210@ybl-ucba0002374-225646743880-groceries,320,,food expenses
+14/09/22,.imps p2p 222014359885#08/08/2022 080822-mir2325591250245,5.9,,Others
+14/09/22,imps-225718396346-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,1000,,Others
+14/09/22,upi-myntra designs priva-myntra.payu@icici-icic0dc0099-225731353949-upi transaction,2791,,Online Shopping
+15/09/22,pos 652166xxxxxx6463 sikkim national,2000,,Others
+16/09/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-225921601401-paint,880,,House Renovation
+18/09/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-226187336309-sikkimpnon,256,,Bills
+18/09/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-226187332329-sikkimpnon,228,,Bills
+19/09/22,imps-226212381329-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,2500,,Others
+21/09/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-226430464866-medical,389,,Medical
+21/09/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-226430569617-medical,185,,Medical
+23/09/22,upi-flipkart internet pv-flipkart.payu@icici-icic0dc0099-226661854381-upi,901,,Online Shopping
+25/09/22,upi-ekart-ekart@ybl-yesb0yblupi-226815687910-payment for fmpc21,449,,Online Shopping
+26/09/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-226929549162-upi,719,,Bills
+26/09/22,yhdf1434313229/billdknivabupahealth,30966,,Insurance
+28/09/22,imps-227110361282-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,4000,,Others
+29/09/22,atw-652166xxxxxx6463-s1ansk43-east district,17000,,ATM Withdrawal
+29/09/22,imps-227220304146-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,100,,Others
+30/09/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22344451730 salary sept 22 sikkim,,99928,Salary
+30/09/22,upi-ritu raj sharma-riturajsharma7488@oksbi-sbin0000105-227342985721-pay,,150,Others
+30/09/22,upi-sagar  saini-sagar98saini-1@oksbi-sbin0000586-227335110244-samosa party,900,,food expenses
+01/10/22,credit interest capitalised,,673,Others
+01/10/22,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-227443656680-tea,40,,food expenses
+01/10/22,upi-furkan ahamed-almazzaqui15@okaxis-utib0000441-227436203116-upi,,150,Others
+01/10/22,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-227459939771-shopping,190,,Others
+03/10/22,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb222762360719,,38611,Others
+03/10/22,nippon mf rel-173787-7213,3500,,Investment
+03/10/22,upi-sova  pradhan-shovapradhan610@oksbi-sbin0010546-227604801983-rum,4680,,food expenses
+03/10/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n276222145844045-pm",1500,,Others
+04/10/22,upi-shree krishna hotel -pintumangla725-2@okaxis-utib0000441-227722960501-food,640,,food expenses
+04/10/22,upi-sumeshwar prasad-9851126491-1@okbizaxis-utib0000000-227723396369-mobile,70,,House Renovation
+04/10/22,upi-sumeshwar prasad-9851126491-1@okbizaxis-utib0000000-227723772176-shop,1130,,House Renovation
+04/10/22,upi-bp petrol pump  indr-q75110110@ybl-yesb0yblupi-227724146572-fuel,1700,,Car expenses
+06/10/22,ach d- indianclrcorpltd-77075111,1000,,Investment
+06/10/22,ach d- indianclrcorpltd-77069939,4000,,Investment
+06/10/22,ach d- indianclrcorpltd-77069534,4000,,Investment
+06/10/22,ach d- indianclrcorpltd-77077541,2000,,Investment
+06/10/22,ach d- indianclrcorpltd-77078004,2000,,Investment
+06/10/22,ach d- indianclrcorpltd-77069730,3000,,Investment
+06/10/22,ach d- indianclrcorpltd-77076588,7000,,Investment
+06/10/22,ach d- fin indian clearing-29499892,4000,,Investment
+07/10/22,ach d- indianclrcorpltd-77225183,7000,,Investment
+07/10/22,emi 118469944 chq s1184699440181 1022118469944,38611,,Others
+07/10/22,.imps p2p 225718396346#14/09/2022 140922-mir2328045136283,4.14,,Others
+07/10/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-228001623384-upi,380,,Bills
+08/10/22,upi-ashwin  pradhan-ashwinpradhan047@oksbi-sbin0007950-228112564126-rum,3385,,food expenses
+10/10/22,pos 652166xxxxxx6463 postick,720,,Others
+10/10/22,nippon mf 1871341435-1204,5000,,Investment
+10/10/22,nippon mf 1871336454-1154,5000,,Investment
+10/10/22,.imps p2p 226212381329#19/09/2022 190922-mir2328248103406,5.9,,Others
+10/10/22,upi-pragya  pradhan-pragyapradhan05@oksbi-sbin0010546-228366621450-rum,2200,,food expenses
+15/10/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-228888663007-medical,856,,Medical
+16/10/22,pos 652166xxxxxx6463 reliance trends,2806,,Clothing
+16/10/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-228912820857-paint,22390,,House Renovation
+17/10/22,.imps p2p 227110361282#28/09/2022 280922-mir2328969114417,5.9,,Others
+17/10/22,upi-sonu kumar-8927397841.eazypay@icici-icic0dc0099-229040293700-medical,1665,,Medical
+18/10/22,upi-flipkart-flipkart.payu@hdfcbank-hdfc0000499-229144388021-upi,1682,,Online Shopping
+18/10/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-229159380710-medicines,192,,Medical
+19/10/22,upi-sanjay sharma-sanjay1236sharma28@okaxis-utib0000441-229278130568-party,1000,,food expenses
+20/10/22,imps-229310382125-bhim kumari pradhan-utib-xxxxxxxxxxx1807-pm,2000,,Others
+20/10/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-229306900761-color,1680,,House Renovation
+20/10/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-229306932952-medicines,257,,Medical
+20/10/22,pos 652166xxxxxx6463 bpcl pankaj fuel,1700,,Car expenses
+20/10/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-229313338081-medical,774,,Medical
+22/10/22,upi-amit kumar sharma-k.sharmaay16@okicici-icic0000274-229559211741-upi,,250,Others
+23/10/22,.imps p2p 227220304146#29/09/2022 300922-mir2329481424898,4.14,,Others
+23/10/22,upi-shree krishna hotel -pintumangla725-2@okaxis-utib0000441-229673895329-food,170,,food expenses
+23/10/22,upi-anjalikumari gupta-21pintugupta@okaxis-hdfc0002100-229674353183-fool,1300,,Others
+23/10/22,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-229674462330-upi,50,,Others
+23/10/22,upi-munna shah-9800398475@okbizaxis-utib0000000-229674596290-fruits,390,,food expenses
+24/10/22,upi-sumeshwar prasad-9851126491-1@okbizaxis-utib0000000-229790031167-light,5500,,House Renovation
+24/10/22,upi-krishna medical stor-gpay-11201001088@okbizaxis-utib0000000-229790107986-medicines,57,,Medical
+24/10/22,upi-jagarnath prasad par-smartsashi11-1@okhdfcbank-hdfc0002100-229792997257-paint,3160,,House Renovation
+25/10/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-229814518241-upi,58,,Bills
+26/10/22,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+26/10/22,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+26/10/22,atw-652166xxxxxx6463-s1ansk43-east district,5000,,ATM Withdrawal
+26/10/22,upi-diwakar nuhiwal-harshvardhanmaheshwari062@okhdfcbank-hdfc0002100-229932214522-gift,490,,Others
+26/10/22,upi-new collection-9832040657@okbizaxis-utib0000000-229932492123-clothes,1900,,Clothing
+26/10/22,upi-prakash kumar gupta-amzn0011703595@apl-hdfc0002100-229932754682-rum loan,2900,,food expenses
+26/10/22,upi-ashish kumar-ag80054@okhdfcbank-hdfc0002100-229932866827-snacks,415,,food expenses
+29/10/22,upi-sanjay sharma-sanjay1236sharma28@okaxis-utib0000441-230287833114-upi,,400,Others
+30/10/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,,ATM Withdrawal
+31/10/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22359085337 salary sikkim oct 22,,69927,Salary
+02/11/22,nippon mf rel-173787-2833,3500,,Investment
+02/11/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-230686794551-medicine,887,,Medical
+02/11/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-230687164325-medical,150,,Medical
+02/11/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-230674731085-sikkimpnon,100,,Bills
+03/11/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n307222189378341-pm",1500,,Others
+03/11/22,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb223075239052,,38611,Others
+05/11/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-230967019388-upi,380,,Bills
+06/11/22,upi-bp petrol pump  indr-q39906964@ybl-yesb0yblupi-231083312740-fuel,1800,,Car expenses
+06/11/22,pos 652166xxxxxx6463 reliance trends,4903,,Clothing
+06/11/22,upi-mandira  gurung-mandiragurung1981-1@oksbi-sbin0009034-231090717409-car wash,350,,Car expenses
+07/11/22,ach d- fin indian clearing-32414079,4000,,Investment
+07/11/22,ach d- indianclrcorpltd-78340428,1000,,Investment
+07/11/22,ach d- indianclrcorpltd-78337530,2000,,Investment
+07/11/22,ach d- indianclrcorpltd-78338913,3000,,Investment
+07/11/22,ach d- indianclrcorpltd-78323740,2000,,Investment
+07/11/22,ach d- indianclrcorpltd-78328984,4000,,Investment
+07/11/22,ach d- indianclrcorpltd-78340950,4000,,Investment
+07/11/22,ach d- indianclrcorpltd-78341959,7000,,Investment
+07/11/22,ach d- indianclrcorpltd-78338912,7000,,Investment
+07/11/22,.imps p2p 229310382125#20/10/2022 201022-mir2330926785651,5.9,,Others
+07/11/22,emi 118469944 chq s1184699440191 1122118469944,38611,,Others
+09/11/22,upi-sanjay sharma-sanjay1236sharma28@okaxis-utib0000441-231361106274-recharge,719,,Bills
+10/11/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-231478606274-upi,719,,Bills
+10/11/22,nippon mf 1871336454-13750,5000,,Investment
+10/11/22,nippon mf 1871341435-13751,5000,,Investment
+10/11/22,upi-nirmal kumar agarwal-gpay-11194250051@okbizaxis-utib0000000-231489316801-mobile,10500,,Bills
+10/11/22,upi-nirmal kumar agarwal-gpay-11194250051@okbizaxis-utib0000000-231489486663-mobile,250,,Bills
+10/11/22,upi-abhishek kumar kanu-tonugupta80@okaxis-utib0000441-231489612412-cake,450,,food expenses
+10/11/22,pos 652166xxxxxx6463 native enclave,1992,,food expenses
+13/11/22,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-231758794071-upi,118,,Bills
+14/11/22,upi-mr nima dojee sherpa-6297432559@ybl-cbin0284464-231878566432-charger,345,,Others
+16/11/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-232035244078-medicine,235,,Medical
+18/11/22,upi-sanjay kumar agarwal-9832316326@okbizaxis-utib0000000-232285816995-clothes,240,,Clothing
+19/11/22,pos 652166xxxxxx6463 north east fuel,500,,Car expenses
+22/11/22,imps-232621391652-bhim kumari pradhan-utib-xxxxxxxxxxx1807-data science,5110,,Others
+22/11/22,upi-bhim kumari pradhan-8167797819@axl-utib0000441-232686047082-return,,5100,Others
+24/11/22,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-232811881754-food,60,,food expenses
+25/11/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,,ATM Withdrawal
+26/11/22,upi-tejendra  pradhan-pradhantejendra-4@oksbi-cnrb0000033-233073202429-upi,,1,Others
+26/11/22,upi-tejendra  pradhan-pradhantejendra@oksbi-sbin0000105-233073238313-upi,,2,Others
+26/11/22,upi-vinay kumar singh-vinaysingh8567@okaxis-utib0000441-233068837883-data science cours,5115,,Others
+26/11/22,upi-googlepay-goog-payment@okaxis-utib0000553-233079092653-upi,,3,Others
+26/11/22,atw-652166xxxxxx6463-s1ansk43-east district,2000,,ATM Withdrawal
+26/11/22,upi-bikash kumar prasad-bikashkumarprasad.63017204@hdfcbank-hdfc0000001-233069989617-upi,1800,,Others
+26/11/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-233070073067-medicine,474,,Medical
+26/11/22,upi-janki trade link-paytmqr2810050501011sigi8pa4ssh@paytm-pytm0123456-233070508501-food,190,,food expenses
+26/11/22,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-233070593991-food,190,,food expenses
+27/11/22,upi-the art of living-theartofliving.rzp@icici-icic0dc0099-233123747618-the art of living,3500,,Others
+28/11/22,.imps p2p 232621391652#22/11/2022 231122-mir2333074385446,5.9,,Others
+30/11/22,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-233445594388-upi,60,,food expenses
+30/11/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22373964807 salary sikkim nov 22,,69927,Salary
+01/12/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-233587929731-medical,103,,Medical
+01/12/22,upi-munna shah-9800398475@okbizaxis-utib0000000-233588196945-grocery,120,,food expenses
+01/12/22,upi-aditya kumar-q24301311@ybl-ucba0002374-233588290180-grocery,125,,food expenses
+01/12/22,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n335222228948154-pm",1500,,Others
+01/12/22,upi-life insurance corpo-lifeincorpofindia@hdfcbank-hdfc0000499-233529247022-payment,7885,,Insurance
+02/12/22,nippon mf rel-173787-2693,3500,,Investment
+02/12/22,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-233616305483-medical,175,,Medical
+02/12/22,upi-amazon india-amazon@yapl-yesb0aplupi-233630529589-you are paying for,2279,,Online Shopping
+03/12/22,upi-islam  ansari-islam87739@oksbi-sbin0001447-233732528252-loan,8000,,Others
+03/12/22,upi-googlepay-goog-payment@okaxis-utib0000553-233785746558-upi,,3,Others
+03/12/22,upi-sagar  saini-sagar98saini@okicici-sbin0000586-233723125871-upi,,100,Others
+03/12/22,upi-subhankar  bhowmik-subhankar080196-2@oksbi-sbin0001800-233751951854-farewell,,50,Others
+03/12/22,upi-priyanka sharma-eazypay.584946891@icici-icic0dc0099-233750458018-farewell,9000,,Others
+03/12/22,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb223377642794,,38611,Others
+04/12/22,upi-saikat ghorai so utt-saikatghorai000@okicici-punb0213000-233887939498-farewell,,50,Others
+04/12/22,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-233834599745-sikkimpnon,208,,Bills
+04/12/22,upi-mr satyam kumar-satyampanwar9897219767@okicici-cbin0283318-233854450243-upi,,100,Others
+04/12/22,upi-meet and eat-gpay-11201001206@okbizaxis-utib0000000-233864127830-food,205,,food expenses
+05/12/22,upi-sanjay sharma-sanjay1236sharma28@okaxis-utib0000441-233945409148-upi,,100,Others
+05/12/22,ach d- indianclrcorpltd-79526530,1000,,Investment
+05/12/22,ach d- indianclrcorpltd-79530872,3000,,Investment
+05/12/22,ach d- indianclrcorpltd-79521597,4000,,Investment
+05/12/22,ach d- indianclrcorpltd-79535573,4000,,Investment
+05/12/22,ach d- indianclrcorpltd-79519617,2000,,Investment
+05/12/22,ach d- indianclrcorpltd-79521674,7000,,Investment
+05/12/22,ach d- indianclrcorpltd-79535726,2000,,Investment
+05/12/22,ach d- fin indian clearing-35112686,4000,,Investment
+05/12/22,cash dep bhima pradhan rangpo,,14000,Others
+05/12/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22376734359,,15130,Salary
+06/12/22,upi-flipkart-flipkart.payu@hdfcbank-hdfc0000499-234004711235-upi,1907,,Online Shopping
+06/12/22,upi-amazon india-amazon.refunds@yapl-yesb0aplupi-234021587059-refund for your am,,2279,Online Shopping
+06/12/22,upi-jeevan  chetry-jeevanchetry29@oksbi-sbin0005844-234009803131-for farewell,,9000,Others
+06/12/22,upi-debojyoti mazumdar-debo.biotech@okhdfcbank-hdfc0004198-234008589525-for manish fairwel,,50,Others
+06/12/22,upi-rama  chanda-rama.chanda234-1@oksbi-sbin0009034-234025712577-upi,,100,Others
+07/12/22,ach d- indianclrcorpltd-80013138,7000,,Investment
+07/12/22,emi 118469944 chq s1184699440201 1222118469944,38611,,Others
+09/12/22,upi-fuzeel-mohdfuzeel@okicici-barb0manbij-234376417699-manish farewell,,50,Others
+10/12/22,upi-ritu raj sharma-riturajsharma7488@oksbi-sbin0000105-234499230701-manish farewell,,200,Others
+10/12/22,upi-native enclave-8944808010@okbizaxis-utib0000000-234427521538-food,3233,,food expenses
+10/12/22,upi-sanjay sharma-sanjay1236sharma28@okaxis-utib0000441-234435657074-upi,,1077,Others
+10/12/22,upi-vinay kumar singh-vinaysingh8567@okaxis-utib0000441-234435702922-pay,,538,Others
+10/12/22,upi-ritu raj sharma-riturajsharma7488@oksbi-sbin0000105-234414316389-manish farewell,,538,Others
+11/12/22,upi-xxxxxx0381-icic0006354-234539621278-loan,3500,,Others
+12/12/22,nippon mf 1871336454-14545,5000,,Investment
+12/12/22,nippon mf 1871341435-14546,5000,,Investment
+12/12/22,upi-furkan ahamed-almazzaqui15@okaxis-utib0000441-234687685296-maneesh,,538,Others
+13/12/22,upi-om footwear-omfootwear.62009941@hdfcbank-hdfc0000001-234797832340-clothes,620,,Clothing
+17/12/22,upi-gopiram jogendra pra-gpay-11175136022@okbizaxis-utib0000000-235177666572-clothes,6000,,Clothing
+17/12/22,upi-bharat shoe company-gpay-11194070313@okbizaxis-utib0000000-235178126609-shoes,2500,,Clothing
+17/12/22,upi-poonam  gazmer-poonam.gazmer-2@oksbi-sbin0009034-235181783483-food,730,,food expenses
+17/12/22,upi-mayur shripad joshi-amzn0006655571@apl-hdfc0001083-235182090619-food,1803,,food expenses
+21/12/22,upi-bp petrol pump  indr-q75110110@ybl-yesb0yblupi-235576368258-fuel,1700,,Car expenses
+23/12/22,upi-siddarth communicati-paytmqr2810050501011r4eyagtn3e5@paytm-pytm0123456-235720678499-gifts,190,,Others
+24/12/22,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-235829374718-food,60,,food expenses
+24/12/22,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-235844520674-medical,1800,,Medical
+24/12/22,upi-sanjay kumar agarwal-9832316326@okbizaxis-utib0000000-235845257731-clothes,200,,Clothing
+26/12/22,pos 652166xxxxxx6463 ms entel motors,5099,,Car expenses
+26/12/22,pos 652166xxxxxx6463 periwal brothers,420,,Others
+26/12/22,pos 652166xxxxxx6463 sourav motors,2710,,Car expenses
+26/12/22,upi-flipkart internet pv-flipkart.payu@icici-icic0dc0099-236090690778-upi,281,,Online Shopping
+28/12/22,"neft dr-utib0000441-bhim kumari pradhan-netbank, mum-n362222263482840-atw",2000,,ATM Withdrawal
+29/12/22,upi-abdul rejjak-abdulrejjak.39125498@hdfcbank-hdfc0000001-236356720059-food,60,,food expenses
+30/12/22,upi-googlepay-goog-payment@okaxis-utib0000553-236463235452-upi,,3,Others
+31/12/22,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin22390111853 salary dec22 - sikkim,,69842,Salary
+31/12/22,upi-aditya kumar-q24301311@ybl-ucba0002374-236504503275-food,370,,food expenses
+31/12/22,upi-sova  pradhan-shovapradhan610@oksbi-sbin0010546-236505354405-liquor,170,,Others
+01/01/23,upi-googlepay-goog-payment@okaxis-utib0000553-300140421485-upi,,3,Others
+01/01/23,credit interest capitalised,,464,Others
+02/01/23,nippon mf rel-173787-3769,3500,,Investment
+02/01/23,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-300258077939-food,100,,food expenses
+02/01/23,upi-abdul rejjak-abdulrejjak.39125498@hdfcbank-hdfc0000001-300258222036-food,40,,food expenses
+03/01/23,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb230039483246,,38611,Others
+03/01/23,upi-billdesktez-billdesk.airtel-dth@icici-icic0dc0099-300378487540-upi,380,,Others
+03/01/23,pos 652166xxxxxx6463 indrajmull kurda,2500,,Car expenses
+04/01/23,upi-amazon india-amazon@yapl-yesb0aplupi-300486382500-you are paying for,315,,Online Shopping
+04/01/23,upi-munna shah-9800398475@okbizaxis-utib0000000-300409323867-grocery,360,,food expenses
+04/01/23,upi-uttam gupta uk-7001727928@paytm-pytm0123456-300409447353-food,600,,food expenses
+04/01/23,upi-abdul rejjak-abdulrejjak.39125498@hdfcbank-hdfc0000001-300409969103-food,200,,food expenses
+04/01/23,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n004232275509581-pm",1500,,Others
+05/01/23,ach d- indianclrcorpltd-81164030,1000,,Investment
+05/01/23,ach d- indianclrcorpltd-81171362,3000,,Investment
+05/01/23,ach d- indianclrcorpltd-81177829,2000,,Investment
+05/01/23,ach d- indianclrcorpltd-81166261,2000,,Investment
+05/01/23,ach d- indianclrcorpltd-81174089,4000,,Investment
+05/01/23,ach d- indianclrcorpltd-81177944,4000,,Investment
+05/01/23,ach d- indianclrcorpltd-81176037,7000,,Investment
+05/01/23,ach d- fin indian clearing-37967880,4000,,Investment
+06/01/23,upi-kamta prasad-gpay-11194275144@okbizaxis-utib0000000-300660701082-grocery,650,,food expenses
+06/01/23,upi-abhishek kumar kanu-tonugupta80@okaxis-utib0000441-300660917817-grocery,450,,food expenses
+06/01/23,upi-sanjay kumar agarwal-9832316326@okbizaxis-utib0000000-300661126191-clothes,1300,,Clothing
+06/01/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-300697040970-sikkimpnon,697,,Bills
+07/01/23,emi 118469944 chq s1184699440211 0123118469944,38611,,Others
+07/01/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-300799010060-sikkimpnon,100,,Bills
+09/01/23,upi-flipkart internet pv-flipkart.payu@icici-icic0dc0099-300916203922-upi,1190,,Online Shopping
+09/01/23,ach d- indianclrcorpltd-81446277,7000,,Investment
+09/01/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000240-300901626429-online refund,,100,Others
+10/01/23,nippon mf 1871336454-13517,5000,,Investment
+10/01/23,nippon mf 1871341435-13518,5000,,Investment
+12/01/23,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-301293233628-upi,719,,Bills
+12/01/23,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-301201131472-medical,474,,Medical
+12/01/23,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-301201386029-food,145,,food expenses
+14/01/23,"neft dr-utib0000441-bhim kumari pradhan-netbank, mum-n014232291442717-pm",1000,,Others
+14/01/23,"neft dr-sbin0009034-barun pradhan-netbank, mum-n014232291451854-transfer",500,,Others
+14/01/23,"neft dr-sbin0012421-barun dev pradhan-netbank, mum-n014232291451944-transfer",500,,Others
+14/01/23,neft cr-sbin0012421-barun dev pradhan-barun dev pradhan-sbinz23014001551,,500,Others
+15/01/23,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-301567708238-food,190,,food expenses
+15/01/23,upi-bp petrol pump  indr-q75110110@ybl-yesb0yblupi-301568097859-fuel,1700,,Car expenses
+19/01/23,50200067172675-160123856598,,63486.2,Others
+19/01/23,50200067172675-160123856210,,99864.99,Others
+19/01/23,50200067172675-160123856938,,127655.27,Others
+20/01/23,pos 652166xxxxxx6463 amazon,57999,,Online Shopping
+22/01/23,upi-shiva  chettri-shivachhetri2466@oksbi-sbin0009034-302218610252-fuel,500,,Car expenses
+23/01/23,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-302352968146-food,20,,food expenses
+23/01/23,upi-mr sonu kumar-8927397841.eazypay@icici-icic0dc0099-302356244594-medical bill,513,,Medical
+23/01/23,upi-abdul rejjak-abdulrejjak.39125498@hdfcbank-hdfc0000001-302356531585-food,90,,food expenses
+23/01/23,atw-652166xxxxxx6463-s1ansk43-east district,1000,,ATM Withdrawal
+25/01/23,upi-jeevan  chetry-jeevanchetry29@oksbi-sbin0005844-302569231051-upi,,900,Others
+25/01/23,atw-652166xxxxxx6463-s1ansk43-east district,1000,,ATM Withdrawal
+25/01/23,upi-shiv shanti puja bha-8016258841@okbizaxis-utib0000000-302599871365-food,280,,food expenses
+25/01/23,upi-kamta prasad-gpay-11194275144@okbizaxis-utib0000000-302599951264-food,40,,food expenses
+25/01/23,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-302500264669-food,170,,food expenses
+25/01/23,upi-swami nath prasad-gpay-11203854705@okbizaxis-utib0000000-302500509678-food,230,,food expenses
+28/01/23,upi-ramesh chhetri-rameshduga@okhdfcbank-hdfc0002100-302850441823-education,8040,,Others
+28/01/23,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-302850757896-food,120,,food expenses
+28/01/23,upi-reliance trends-reliancetrends.42201377@hdfcbank-hdfc0000001-302860868971-clothes,3354,,Clothing
+29/01/23,upi-munna shah-9800398475@okbizaxis-utib0000000-302980984548-grocery,500,,food expenses
+29/01/23,upi-avinay gupta-guptaavinay99@okhdfcbank-hdfc0002100-302981160315-grocery,660,,food expenses
+29/01/23,upi-sumeshwar prasad-9851126491-1@okbizaxis-utib0000000-302981533302-ekart,800,,House Renovation
+29/01/23,upi-santosh fruit shop-gpay-11194199910@okbizaxis-utib0000000-302981651884-grocery,170,,food expenses
+29/01/23,upi-avinay gupta-guptaavinay99@okhdfcbank-hdfc0002100-302981701334-grocery,220,,food expenses
+30/01/23,cc 000434678xxxxxx6201 autopay si-mad,66,,Others
+30/01/23,upi-flipkart internet pv-flipkart.payu@icici-icic0dc0099-303094655151-upi,2244,,Online Shopping
+31/01/23,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin23313827481 salary sikkim - jan 2023,,80323,Salary
+31/01/23,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-303132463812-upi,380,,Bills
+01/02/23,upi-vinay kumar singh-vinaysingh8567@okaxis-utib0000441-303248278549-recharge,705,,Bills
+01/02/23,imps-303215345692-tapits02-icic-xxxxxxxx8888-kfintechno,,1,Others
+02/02/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-303347049046-sikkimpnon,390,,Bills
+02/02/23,nippon mf rel-173787-2621,3500,,Investment
+03/02/23,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb230342104234,,38611,Others
+03/02/23,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-303484509998-food,10,,food expenses
+04/02/23,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-303513162029-upi,118,,Bills
+05/02/23,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n036232317718927-pm",1500,,Others
+06/02/23,ach d- fin indian clearing-40832026,4000,,Investment
+06/02/23,ach d- indianclrcorpltd-82503245,4000,,Investment
+06/02/23,ach d- indianclrcorpltd-82505966,4000,,Investment
+06/02/23,ach d- indianclrcorpltd-82507062,1000,,Investment
+06/02/23,ach d- indianclrcorpltd-82509939,3000,,Investment
+06/02/23,ach d- indianclrcorpltd-82504161,7000,,Investment
+06/02/23,upi-mr narendra kumar pr-9933626335@apl-cbin0283805-303773164649-help,1000,,Others
+07/02/23,ach d- indianclrcorpltd-82899251,7000,,Investment
+07/02/23,emi 118469944 chq s1184699440221 0223118469944,38611,,Others
+10/02/23,nippon mf 1871336454-13425,5000,,Investment
+10/02/23,nippon mf 1871341435-13426,5000,,Investment
+11/02/23,upi-om footwear-omfootwear.62009941@hdfcbank-hdfc0000001-304284342989-shoes,880,,Clothing
+11/02/23,upi-aditya kumar-q24301311@ybl-ucba0002374-304284491119-grocery,390,,food expenses
+13/02/23,upi-amazon india-amazon@yapl-yesb0aplupi-304452143972-you are paying for,699,,Online Shopping
+14/02/23,"neft dr-cnrb0008676-jit bahadur biswakarma-netbank, mum-n045232331195694-lic",4325,,Others
+14/02/23,upi-gopal goyal shop-gopalgoyalshop.62468759@hdfcbank-hdfc0000001-304557263543-renovation,7900,,Others
+14/02/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-304575116084-sikkimpnon,100,,Bills
+15/02/23,upi-life care medicos-paytmqr281005050101ulity2g33qrr@paytm-pytm0123456-304679486228-medical,120,,Medical
+15/02/23,upi-shiv shanti puja bha-8016258841@okbizaxis-utib0000000-304679583173-grocery,435,,food expenses
+15/02/23,upi-munna shah-9800398475@okbizaxis-utib0000000-304679681691-grocery,370,,food expenses
+15/02/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-304677025900-sikkimpnon,100,,Bills
+15/02/23,upi-googlepay-goog-payment@okaxis-utib0000553-304669057693-upi,,3,Others
+16/02/23,upi-googlepay-goog-payment@okaxis-utib0000553-304776025103-upi,,3,Others
+16/02/23,upi-shree krishna hotel -pintumangla725-2@okaxis-utib0000441-304794085605-food,260,,food expenses
+17/02/23,upi-mrs anita pradhan-paytmqr28100505010113sljijr34qv@paytm-pytm0123456-304825949988-misc,66,,Others
+18/02/23,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-304952763469-medical,263,,Medical
+19/02/23,upi-flipkart-flipkart.payu@hdfcbank-hdfc0000499-305063563541-upi,1284,,Online Shopping
+20/02/23,upi-munna shah-9800398475@okbizaxis-utib0000000-305194593749-grocery,270,,food expenses
+20/02/23,upi-samayra medical-paytmqr2810050501011gqr4oo66rah@paytm-pytm0123456-305194642986-medical,850,,Medical
+24/02/23,upi-abdul rejjak-abdulrejjak.39125498@hdfcbank-hdfc0000001-305578590695-food,100,,food expenses
+25/02/23,upi-sova  pradhan-shovapradhan610@oksbi-sbin0010546-305600438034-grocery,200,,food expenses
+26/02/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-305797173937-sikkimpnon,225,,Bills
+28/02/23,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin23327677004 salary sikkim - feb 2023,,70038,Salary
+01/03/23,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-306092247873-upi,380,,Bills
+02/03/23,upi-boodmo-boodmo.rzp@icici-icic0dc0099-306196599961-order1677723830192,795,,Others
+02/03/23,nippon mf rel-173787-2590,3500,,Investment
+03/03/23,upi-shree krishna hotel -pintumangla725-2@okaxis-utib0000441-306234748227-food,60,,food expenses
+03/03/23,upi-munna shah-9800398475@okbizaxis-utib0000000-306234918511-grocery,200,,food expenses
+03/03/23,upi-new shree shyam hote-paytmqr2810050501011azvburu8eig@paytm-pytm0123456-306235016181-food,200,,food expenses
+03/03/23,upi-munna shah-9800398475@okbizaxis-utib0000000-306235078627-grocery,95,,food expenses
+03/03/23,neft cr-utib0000441-furkan ahamed-barun dev pradhan-axmb230624369285,,38611,Others
+04/03/23,"neft dr-utib0000441-bishnu maya rai-netbank, mum-n063232356282717-pm",1500,,Others
+04/03/23,upi-billdesktez-billdesk.prepaid-mobile@icici-icic0dc0099-306343899029-upi,239,,Bills
+04/03/23,upi-bikash thapa-beekuthapa1985@okhdfcbank-hdfc0002100-306343940547-upi,,239,Others
+04/03/23,upi-flipkart-flipkart.payu@hdfcbank-hdfc0000499-306343962409-upi,1789,,Online Shopping
+04/03/23,upi-reliance trends-reliancetrends.27209533@hdfcbank-hdfc0000001-306351519035-upi,2058,,Clothing
+04/03/23,upi-om footwear-omfootwear.62009941@hdfcbank-hdfc0000001-306352713212-shoes,1690,,Clothing
+04/03/23,upi-praveen agarwal-praveenagarwal.39063853@hdfcbank-hdfc0000001-306353111420-grocery,110,,food expenses
+06/03/23,ach d- fin indian clearing-43959003,19000,,Investment
+06/03/23,ach d- fin indian clearing-44144441,4000,,Investment
+07/03/23,emi 118469944 chq s1184699440231 0323118469944,38611,,Others
+07/03/23,upi-sova  pradhan-shovapradhan610@oksbi-sbin0010546-306605899307-liquor,445,,Others
+08/03/23,ach d- fin indian clearing-44205583,7000,,Investment
+09/03/23,apbs c- iocl lpg subsidy-p0323022b7232,,143.45,Others
+09/03/23,upi-tashi bhutia-9775877032@paytm-cbin0282239-306849898089-clothes,2200,,Clothing
+10/03/23,nippon mf 1871336454-13330,5000,,Investment
+10/03/23,nippon mf 1871341435-13331,5000,,Investment
+13/03/23,upi-swami nath prasad-gpay-11201001204@okbizaxis-utib0000000-307225831145-grocery,400,,food expenses
+13/03/23,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-307226041493-upi,99,,Bills
+14/03/23,atw-652166xxxxxx6463-s1ansk43-east district,1000,,ATM Withdrawal
+16/03/23,upi-dikcha  sharma-dikchasharma121@oksbi-sbin0007558-307591376678-gift,100,,Others
+16/03/23,upi-googlepay-goog-payment@okaxis-utib0000553-307539568435-upi,,3,Others
+16/03/23,upi-sanjay sharma-sanjay1236sharma28@okaxis-utib0000441-307591415799-gift,233,,Others
+16/03/23,upi-lasom dolma tamang-lassangtamang8001@okaxis-utib0002015-307591653948-food,100,,food expenses
+17/03/23,upi-ravi shanker prakash-9873992040@paytm-kkbk0000172-307633042531-medical,3000,,Medical
+18/03/23,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+18/03/23,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+18/03/23,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+18/03/23,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+18/03/23,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+18/03/23,upi-sanjay kumar agarwal-9832316326@okbizicici-icic0dc0099-307748632151-clothes,1500,,Clothing
+19/03/23,upi-manoj prasad-manoj99hdfc@ybl-hdfc0002100-307857757504-maintenance,80,,Others
+19/03/23,upi-kashu kumar pradhan-keshawpradhan7@okaxis-utib0000441-307858182222-grocery,110,,food expenses
+21/03/23,upi-satandra prasad-prasadsatendra590@okaxis-ubin0553158-308004326532-bati,2500,,Others
+21/03/23,upi-tara devi  basnet-tarapokharel1980@oksbi-sbin0010546-308005566305-grocery,150,,food expenses
+21/03/23,upi-tulshi biswakarma-tulshibiswa.09@okicici-icic0001399-308007928333-grocery,11950,,food expenses
+21/03/23,upi-googlepay-goog-payment@okaxis-utib0000553-308012502576-upi,,10,Others
+21/03/23,upi-furkan ahamed-almazzaqui15@okaxis-utib0000441-308018340100-gift,500,,Others
+21/03/23,upi-googlepay-goog-payment@okaxis-utib0000553-308027021594-upi,,3,Others
+22/03/23,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+22/03/23,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+22/03/23,atw-652166xxxxxx6463-s1ansk43-east district,1000,,ATM Withdrawal
+22/03/23,atw-652166xxxxxx6463-s1ansk43-east district,20000,,ATM Withdrawal
+23/03/23,upi-devi psd chettri-devprassad17@oksbi-sbin0007515-308254649970-catering,12420,,Others
+24/03/23,upi-sandip shaw-bharatpe09904618161@yesbankltd-yesb0yesupi-308365370675-food,85,,food expenses
+24/03/23,upi-mr deepak kumar rai-drai19136@okaxis-cbin0282239-308365967477-taxi,400,,Others
+24/03/23,atw-652166xxxxxx6463-s1ansk43-east district,1000,,ATM Withdrawal
+24/03/23,atw-652166xxxxxx6463-s1ansk43-east district,9000,,ATM Withdrawal
+24/03/23,upi-billdesktez-billdesk.prepaid-mobile@icici-icic0dc0099-308371373317-upi,265,,Bills
+24/03/23,upi-googlepay-goog-payment@okaxis-utib0000553-308397273500-upi,,3,Others
+27/03/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-308662688600-sikkimpnon,162,,Bills
+27/03/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-308662694262-sikkimpnon,100,,Bills
+27/03/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000499-308662696288-sikkimpnon,100,,Bills
+28/03/23,upi-energy and power dep-billdeskpg.govofsikkinpower@hdfcbank-hdfc0000240-308765383781-online refund,,100,Others
+28/03/23,upi-euronetgpay-euronetgpay.pay@icici-icic0dc0099-308738497038-upi,380,,Bills
+28/03/23,hga9p149300089814148-airteldth-billpay-50200026202917,380,,Others
+29/03/23,upi-amazon india-amazon@yapl-yesb0aplupi-308885030651-you are paying for,650,,Online Shopping
+29/03/23,upi-amazon india-amazon@yapl-yesb0aplupi-308868057036-you are paying for,739,,Online Shopping
+31/03/23,neft cr-citi0100000-lupin limited - salary account-barun dev pradhan-citin23344390033 salary sikkim - mar 23,,76059,Salary
+01/04/23,credit interest capitalised,,1427,Others
+"","",,,Others
+********,**********************************,,,Others
+*********************************************************************************************************************************,"",,,Others
+"","",,,Others
+STATEMENT SUMMARY  :-,"",,,Others
+Opening Balance,"",,,Others
+109619.41,"",2061032.6,2075418.28,Others
+"","",,,Others
+"","",,,Others
+"","",527,88,Others
+"","",,,Others
+"","",,,Others
+Generated On:,02-apr-2023 14:57,,,Others
+"","",,,Others
+State account branch GSTN:,11aaach2702h1zd,,,Others
+"HDFC Bank GSTIN number details are available at 
+https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax.","",,,Others
+"Registered Office Address: HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai 400013","",,,Others
+---  End Of Statement ---,"",,,Others
